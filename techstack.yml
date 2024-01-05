@@ -2,7 +2,7 @@ repo_name: ammaralnajim/Java-TicTacToe
 report_id: ad604222270182bd2d5e40b45a41bf80
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-20T18:34:28+00:00'
+timestamp: '2024-01-05T08:19:23+00:00'
 requested_by: ammaralnajim
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ammaralnajim/Java-TicTacToe
   detection_source: Repo Metadata
 - name: Kotlin
   description: Statically typed Programming Language targeting JVM and JavaScript
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/3750/pCfEzr6L.png
+  detection_source_url: https://github.com/ammaralnajim/Java-TicTacToe
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,4 +37,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ammaralnajim/Java-TicTacToe
   detection_source: Repo Metadata
